@@ -2,4 +2,4 @@
 
 ◦ [DEMO LINK](https://zhenija.github.io/TodoApp/)
 
-Have fun testing
+◦ Have fun testing!
